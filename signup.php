@@ -28,7 +28,7 @@
 
             <section id="menu">
                 <a href="about.php" class="menu-item">ABOUT</a>
-                <a href="" class="menu-item">SIGN UP</a>
+                <a href="" class="menu-item active">SIGN UP</a>
                 <a href="login.php" class="menu-item">LOGIN</a>
             </section>
         </header>
@@ -36,14 +36,14 @@
         <main>
             <div id="background"></div>
             <div id="content">
-                <section id="reg-con">
-                    <img src="assets/register/signup-pic.png" alt="">
-                    <div id="form-con">
+                <section class="con">
+                    <img src="assets/signup-login/signup-pic.png" alt="">
+                    <div class="form-con">
                         <h1>REGISTRATION FORM</h1>
                         <h5>Create account to access the library.</h5>
                         <br>
 
-                        <div id="form-pg">
+                        <div class="form-pg">
                             <form action="" method="post" id="reg-form">
                                 <fieldset id="account">
                                     <legend class="field-title">&nbsp;&nbsp;Account Setup&nbsp;&nbsp;</legend>
