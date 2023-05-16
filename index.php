@@ -28,7 +28,7 @@
 
             <section id="menu">
                 <a href="about.php" class="menu-item">ABOUT</a>
-                <a href="register.php" class="menu-item">SIGN UP</a>
+                <a href="signup.php" class="menu-item">SIGN UP</a>
                 <a href="login.php" class="menu-item">LOGIN</a>
             </section>
         </header>
