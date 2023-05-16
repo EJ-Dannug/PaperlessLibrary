@@ -28,7 +28,7 @@
 
             <section id="menu">
                 <a href="about.php" class="menu-item">ABOUT</a>
-                <a href="signup.php" class="menu-item">SIGN UP</a>
+                <a href="register.php" class="menu-item">SIGN UP</a>
                 <a href="login.php" class="menu-item">LOGIN</a>
             </section>
         </header>
@@ -37,7 +37,7 @@
             <div id="background"></div>
             <div id="content">
                 <section id="description-carousel">
-                <div class="slider">
+                    <div class="slider">
                         <div class="slide">
                             <input type="radio" name="radio-btn" id="slide1" checked>
                             <input type="radio" name="radio-btn" id="slide2">
